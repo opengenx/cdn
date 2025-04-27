@@ -1,7 +1,7 @@
 ---
 title: "10 Tech Skills That'll Soon Be Obsolete & 10 That'll Be Valuable In The Future"
 date: 2025-04-27
-author: "OpenGenX"
+author: "helloamarnath"
 excerpt: "As technology evolves, discover which tech skills are becoming obsolete and which will be in high demand in the coming years."
 tags: ["technology", "career development", "skills", "future of work", "AI"]
 ---
