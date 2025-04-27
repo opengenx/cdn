@@ -1,0 +1,30 @@
+# Disallow all robots from indexing or following any content
+User-agent: *
+Disallow: /
+Noindex: /
+Nofollow: /
+
+# Explicitly prevent major search engines
+User-agent: Googlebot
+Disallow: /
+Noindex: /
+
+User-agent: Bingbot
+Disallow: /
+Noindex: /
+
+User-agent: Slurp
+Disallow: /
+Noindex: /
+
+User-agent: DuckDuckBot
+Disallow: /
+Noindex: /
+
+User-agent: Baiduspider
+Disallow: /
+Noindex: /
+
+User-agent: YandexBot
+Disallow: /
+Noindex: /
