@@ -5,7 +5,6 @@
     "description": "A comprehensive guide to building modern web applications with Next.js",
     "date": "2025-04-20",
     "author": "OpenGenX Team",
-    "coverImage": "/images/tech/OpenGenX Next.js.svg",
     "tags": ["Next.js", "React", "Tutorial"],
     "categories": ["Web Development", "Frontend"]
   },
@@ -15,7 +14,6 @@
     "description": "A deep dive into React Hooks and how to use them effectively in your applications",
     "date": "2025-05-15",
     "author": "OpenGenX Team",
-    "coverImage": "/images/tech/OpenGenX React.svg",
     "tags": ["React", "JavaScript", "Tutorial"],
     "categories": ["Web Development", "Frontend"]
   },
@@ -25,7 +23,6 @@
     "description": "Learn how to build scalable and efficient APIs using Node.js and Express",
     "date": "2025-06-10",
     "author": "OpenGenX Team",
-    "coverImage": "/images/tech/OpenGenX Node.js.svg",
     "tags": ["Node.js", "API", "Backend"],
     "categories": ["Web Development", "Backend"]
   } 
