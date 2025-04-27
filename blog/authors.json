@@ -1,0 +1,20 @@
+[
+  {
+    "id": "helloamarnath",
+    "name": "Amarnath",
+    "fullName": "Amarnath R",
+    "avatar": "/images/authors/amarnath.jpg",
+    "bio": "Full-stack developer with expertise in modern web technologies. Passionate about creating seamless user experiences and sharing knowledge through writing.",
+    "title": "Senior Software Engineer",
+    "company": "OpenGenX",
+    "social": {
+      "twitter": "https://twitter.com/helloamarnath",
+      "github": "https://github.com/helloamarnath",
+      "linkedin": "https://linkedin.com/in/helloamarnath",
+      "website": "https://amarnath.dev"
+    },
+    "expertise": ["Web Development", "JavaScript", "React", "Next.js", "TypeScript"],
+    "joinedDate": "2024-01-15",
+    "featured": true
+  }
+]

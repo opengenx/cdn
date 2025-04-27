@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "post1",
+    "title": "Getting Started with Next.js",
+    "description": "A comprehensive guide to building modern web applications with Next.js",
+    "date": "2025-04-20",
+    "author": "OpenGenX Team",
+    "coverImage": "/images/tech/OpenGenX Next.js.svg",
+    "tags": ["Next.js", "React", "Tutorial"],
+    "categories": ["Web Development", "Frontend"]
+  }
+]
