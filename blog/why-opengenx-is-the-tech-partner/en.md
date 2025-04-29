@@ -6,8 +6,6 @@ excerpt: "Discover how OpenGenx combines industry expertise, modern technologies
 tags: ["software development", "tech partnership", "custom applications", "digital solutions", "digital transformation", "enterprise software", "software consulting", "technology partner"]
 ---
 
-# Why OpenGenx is the Tech Partner You've Been Searching For
-
 In a fast-moving digital world, businesses need more than just code—they need strategy, scalability, and a tech team that gets it. That's exactly why OpenGenx was created.
 
 Founded by four industry experts with combined strengths in software development, sales, and digital transformation, OpenGenx is a modern development company built to serve modern business needs across industries including fintech, healthcare, e-commerce, and enterprise solutions.
@@ -131,6 +129,6 @@ We are passionate about technology, obsessed with quality, and committed to buil
 
 Ready to transform your business with technology that works for you, not against you? Contact OpenGenx today for a no-obligation consultation and discover how our software development expertise can become your competitive advantage.
 
-[Contact Us: hello@opengenx.com](mailto:hello@opengenx.com)
+[Contact Us: sales@opengenx.com](mailto:sales@opengenx.com)
 
-*OpenGenx: Building Tomorrow's Technology Today*
+*OpenGenx: Your Technology Growth Partner*
